@@ -2,7 +2,7 @@
 
 ## Tekijät:
 
-Jaakko, Erik
+Jaakko (Front-end), Erik (Back-end)
 
 ## Tehtävä:
 

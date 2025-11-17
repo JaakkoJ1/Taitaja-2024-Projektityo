@@ -4,7 +4,6 @@
 
 Jaakko, Erik
 
-
 ## Tehtävä:
 
 Semifinaalitehtävässä kilpailijoiden tulee rakentaa Tuottajamarket -verkkopalvelu, jonka kautta tuottajat voivat myydä lähiruokaa kuluttajille kotiinkuljetuksella. Semifinaalitehtävästä on nähtävillä myös arviointi- eli pisteytystaulukko.

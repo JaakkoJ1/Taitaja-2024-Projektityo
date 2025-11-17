@@ -2,5 +2,4 @@
 
 Tekijät:
 
-Jaakko
-Erik
+Jaakko, Erik
